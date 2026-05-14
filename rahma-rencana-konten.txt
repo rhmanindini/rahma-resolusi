@@ -2,8 +2,10 @@ RENCANA KONTEN RAHMA
 
 - Javascript
   - ES6 
-  - Framework Javascript 
-- Struktur Data Dasar
+  - Framework Javascript   
+    ^ Angular
+    ^ React
 - PHP Frameworks
+  ^ Laravel
 - Interview
 - Vlogs
