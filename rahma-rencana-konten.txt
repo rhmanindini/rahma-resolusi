@@ -1,6 +1,8 @@
 RENCANA KONTEN RAHMA
 
--Javascript
--PHP Frameworks
--Interview
--Vlogs
+- Javascript
+  - ES6 
+  - Framework Javascript 
+- PHP Frameworks
+- Interview
+- Vlogs
